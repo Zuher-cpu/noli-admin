@@ -1117,6 +1117,7 @@ Empyrean = Start({
 		{ MeshId = "14768684979", Names = { "Left Arm", "Right Arm"}, Offset = CFrame.Angles(0, 0, 1.57), TextureId = "14768683674" },
         { Name = "Reanimate_Voidstar",  MeshId = "124194211474392", TextureId = "105290120585425", Offset = CFrame.identity },
         { Name = "Reanimate_Voidstar",  MeshId = "130756538768802", TextureId = "133116459576975", Offset = CFrame.identity },
+        { Name = "Reanimate_Voidstar",  MeshId = "90313673288563", TextureId = "112415867039852", Offset = CFrame.identity },
 		-- ReanimateVoidstar 
         { Name = "Reanimate_Voidstar",  MeshId = "93839976189892", TextureId = "87530318962700", Offset = CFrame.identity },
 		{ Name = "Reanimate_Dummy",  MeshId = "104517187424526", TextureId = "133044964286932", Offset = CFrame.Angles(0, Rad(180), 0) },
